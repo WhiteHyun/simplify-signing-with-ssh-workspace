@@ -8,3 +8,7 @@ This repository is my workspace for experimenting with SSH signing keys as a par
 1. [Signing and verifying tags](https://github.com/git-merge-workshops/simplify-signing-with-ssh/blob/main/exercises/04-sign-verify-tags.md)
 1. [Signing past commits and tags](https://github.com/git-merge-workshops/simplify-signing-with-ssh/blob/main/exercises/05-sign-past-commits-tags.md)
 
+
+## Hello world!
+
+The `v1.0.0` release contains the `hello-world.sh` script, which understandably displays `Hello world!`.
