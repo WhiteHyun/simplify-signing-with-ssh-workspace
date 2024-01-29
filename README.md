@@ -12,3 +12,7 @@ This repository is my workspace for experimenting with SSH signing keys as a par
 ## Hello world!
 
 The `v1.0.0` release contains the `hello-world.sh` script, which understandably displays `Hello world!`.
+
+## Foo bar
+
+Since the `v1.0.0` release, the `foo.sh` script was added, which understandably displays `bar`.
